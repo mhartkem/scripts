@@ -5,5 +5,4 @@ Who authored that change (from the previous question)?
 dotmatrix337
 
 Revert the change 1e0317f7148c91a931ba372fafcc22e32a7ea3ac and run the somescript.rb. What is the output of it?
-puts: command not found
-./somescript.rb: line 1: puts: command not found
+Hi there!
