@@ -1,8 +1,0 @@
-﻿What commit removed the shebang line?
-1e0317f7148c91a931ba372fafcc22e32a7ea3ac
-
-Who authored that change (from the previous question)?
-dotmatrix337
-
-Revert the change 1e0317f7148c91a931ba372fafcc22e32a7ea3ac and run the somescript.rb. What is the output of it?
-Hi there!
