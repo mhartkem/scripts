@@ -9,11 +9,11 @@ ldap = Net::LDAP.new :host => "127.0.0.1",
     :password => "Password1"
   }
 
-print "Enter a first name: "
+print "Enter the first name of a user to add: "
 first_name = gets.chomp
 givenName = first_name
 
-print "Enter a last name: "
+print "Enter the last name of a user to add: "
 last_name = gets.chomp
 sn = last_name
 
