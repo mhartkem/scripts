@@ -6,7 +6,7 @@ ldap = Net::LDAP.new :host => "127.0.0.1",
   :auth => {
     :method => :simple,
     :username => "cn=admin,dc=example,dc=com",
-    :password => "UbLinuxn9"
+    :password => "Password1"
   }
 
 print "Enter a first name: "
